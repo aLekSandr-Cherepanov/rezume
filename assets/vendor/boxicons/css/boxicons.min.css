@@ -1021,7 +1021,7 @@
 .bxl-twitch:before {
   content: "\e981";
 }
-.bxl-twitter:before {
+.bi-telegram::before {
   content: "\F5B3";
 }
 .bxl-unity:before {

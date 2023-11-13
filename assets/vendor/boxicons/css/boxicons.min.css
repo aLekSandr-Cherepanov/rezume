@@ -1024,6 +1024,9 @@
 .bi-telegram::before {
   content: "\F5B3";
 }
+.bi-whatsapp::before { 
+    content: "\f618"; 
+}
 .bxl-unity:before {
   content: "\e983";
 }
